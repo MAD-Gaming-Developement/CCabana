@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Cash of Cabana</string>
+    <string name="ca_admob_id">ca-app-pub-7215161150020699~2910269219</string>
+    <string name="facebook_app_id">1400620470493005</string>
+    <string name="fb_clienttoken">0b6a9d1a27906c61c6410bbca10d585d</string>
+
+    <string name="Notification_Button">Notification</string>
+    <string name="PolicyTerms_Button">Policy and Terms Condition</string>
+    <string name="About_Button">About</string>
+
+
+    <string name="TermsandCondition">
+    <![CDATA[
+    <b>Introduction</b><br/>
+
+    <br/>Welcome to our app! This app is offered for free, and your use of it is subject to the terms outlined in this Privacy Policy. By using the app, you agree to the collection and use of your information as described here.
+    <br/>
+    <br/><b>Information Collection and Use</b>
+    <br/>
+    <br/>To enhance your experience, we may request certain personally identifiable information. However, rest assured that this information is retained on your device and not collected by us. Some features of the app may rely on third-party services, and we recommend reviewing the privacy policies of these services.
+    <br/>
+    <br/><b>Cookies</b>
+    <br/><br/>This app does not explicitly use cookies. Nevertheless, third-party code and libraries integrated into the app might use cookies to enhance their services. You can choose to accept or decline cookies, but declining may limit certain functionalities.
+    <br/>
+    <br/><b>Security</b>
+    <br/>
+    <br/>We value your trust and employ commercially acceptable means to protect your Personal Information. While we strive for security, remember that no method of transmission over the internet is 100% secure.
+    <br/>
+    <br/><b>Links to Other Sites</b>
+        <br/>
+    <br/>The app may contain links to external sites. We have no control over the content, privacy policies, or practices of these third-party sites and cannot assume responsibility for them.
+    <br/>
+    <br/><b>Changes to This Privacy Policy</b>
+    <br/>
+    <br/>We may update our Privacy Policy periodically. Check this page for any changes, and we\'ll notify you by posting the revised Privacy Policy here.
+    <br/>
+    <br/><b>Terms and Conditions</b>
+    <br/>
+    <br/> By using the app, you agree to these terms. You\'re not allowed to copy, modify, or attempt to extract the source code. We reserve the right to make changes or charge for services. Personal data is stored and processed to provide the service.
+    <br/>
+   <br/><b>Changes to Terms and Conditions</b>
+   <br/>
+    <br/>We may update our Terms and Conditions. Check this page periodically, and we\'ll notify you of changes by posting the updated Terms and Conditions.
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+
+]]>
+    </string>
+
+    <string name="About">
+        <![CDATA[
+          <b>Title: Spin Inca Demo - Free Spin Game Experience</b><br/>
+          <br/>
+          <b>Description</b><br/>
+             <br/>Welcome to Spin Inca Demo, your gateway to a captivating and cost-free spinning experience!his app is designed to provide users with a taste of the excitement that comes with a spin game,  without any financial commitment. Immerse yourself in the thrill of spinning the wheel and enjoy the virtual rewards that follow.<br/>
+              <br/><b>Key Features</b>
+                <br/>
+                <br/>No Financial Commitment: Unlike real gambling apps, Spin Inca Demo is entirely free, ensuring a risk-free and entertaining gaming experience.<br/>
+                <br/>Virtual Rewards: Explore the fun of winning virtual rewards and surprises with each spin of the wheel.  <br/>
+                 <br/>Easy to Use: The simple and intuitive interface makes it easy for users of all ages to enjoy the game effortlessly.<br/>
+                   <br/>
+                 <br/><b>How to Play:</b>
+                   <br/>
+                 <br/>Tap to Spin: Just tap on the screen to set the wheel in motion. Experience the Excitement: Watch as the wheel spins and anticipate the virtual rewards that await.<b/>
+                <br/>No Real Money Involved: Spin Inca Demo is a demo app created solely for entertainment purposes. It does not involve any real money transactions or payouts.<b/>
+                      <br/>
+                            <br/>
+                <b>Note:</b><br/>
+
+            <br/>Spin Demo is a demo app and does not offer real monetary rewards. It is created for users who want to enjoy the thrill of a spin game without the risk associated with gambling apps.<br/>
+        <br/>     <b>Description</b><br/>
+  <br/>Please note that this app is intended for entertainment purposes only and does not encourage or facilitate real gambling. <br/>
+
+     <br/>
+          <br/>
+               <br/>
+                  <br/>
+                      <br/>
+]]>
+ </string>
+</resources>

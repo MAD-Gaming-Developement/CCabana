@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_notification"
+        android:title="@string/Notification_Button"
+        android:icon="@drawable/baseline_doorbell"/>
+    <item
+        android:id="@+id/menu_terms_policy"
+        android:title="@string/PolicyTerms_Button"
+        android:icon="@drawable/baseline_privacy"/>
+    <item
+        android:id="@+id/menu_about"
+        android:title="@string/About_Button"
+        android:icon="@drawable/baseline_question_mark"/>
+</menu>
